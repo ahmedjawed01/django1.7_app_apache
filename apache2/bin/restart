@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/blaz1988/webapps/myapp/apache2/bin/stop
+sleep 5
+/home/blaz1988/webapps/myapp/apache2/bin/start
